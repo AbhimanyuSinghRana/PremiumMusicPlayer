@@ -16,7 +16,7 @@
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/AbhimanyuSinghRana)
 
 ## Features 🔮
 
@@ -57,7 +57,7 @@ pip3 install -U pip
 curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/HEXOROP/eSportMusicX # Clone your repo.
+git clone - https://github.com/AbhimanyuSinghRana/PremiumMusicPlayer# Clone your repo.
 cd eSportMusicX
 pip3 install -U -r requirements.txt
 cp example.env .env #Use vim to edit ENVs
@@ -66,9 +66,9 @@ python3 main.py # Run the bot
 ```
 
 ### Special Credits 💖
-- [Hexor'xD](https://github.com/HEXOROP): Dev
-- [eSport Music Bot](https://t.me/eSport_BOTs) Our Music Bot
+- [AbhimanyuSinghRana](https//t.me/Venom_Hai_Hum): Dev
+- [Alisha Music Bot ](https://t.me/AlishaSupport) Our Music Bot Support
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
 
 ### Support & Updates 🎑
-<a href="https://t.me/EsportClan"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/eSport_BOTs"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/ABOUTABHI"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/AlishaSupport"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
