@@ -1,8 +1,8 @@
 {
-  "name": "Patricia",
+  "name": "PremiumAlishaMusic",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/HEXOROP/eSportMusicX",
+  "repository": "https://github.com/AbhimanyuSinghRana/PremiumMusicPlayer",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -15,7 +15,7 @@
     },
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "API_ID": {
@@ -33,7 +33,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
-      "value": "10"
+      "value": "90"
     }
   }
 }
