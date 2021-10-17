@@ -1,6 +1,6 @@
 {
   "name": "PremiumAlishaMusic",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "description": "Private-Source bot to play songs in your Telegram's Group Voice Chat. Powered by AbhimanyuSinghRana.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/AbhimanyuSinghRana/PremiumMusicPlayer",
   "stack": "container",
