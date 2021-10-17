@@ -56,7 +56,7 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HEXOROP/eSportMusicX)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/AbhimanyuSinghRana/PremiumMusicPlayer&envs=API_ID,API_HASH,ASSISTANT_USERNAME,OWNER_USERNAME,BOT_USERNAME,BOT_TOKEN,BG_IMAGE,BOT_IMAGE,DURATION_LIMIT,SESSION_NAME,UPDATES_CHANNEL,SUPPORT_GROUP,SUDO_USERS)
 
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
 
