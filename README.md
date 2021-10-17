@@ -1,16 +1,7 @@
-<p align="center"><a href="https://t.me/eSport_BOTs"><img src="https://github.com/HEXOROP/eSportMusicX/raw/main/etc/Hexor.png"></a></p>
+<p align="center"><a href="https://t.me/Venom_Hai_Hum"><img src="https://telegra.ph/file/a8359cf25c5c7585d8a75.png"></a></p>
 <p align="center">
-    <br><b>eSport MusicX is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
-</p>
-<p align="center">
-    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX"> <img src="https://img.shields.io/github/repo-size/HEXOROP/eSportMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/commits/main"> <img src="https://img.shields.io/github/last-commit/HEXOROP/eSportMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/issues"> <img src="https://img.shields.io/github/issues/HEXOROP/eSportMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/network/members"> <img src="https://img.shields.io/github/forks/HEXOROP/eSportMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/HEXOROP/eSportMusicX/network/members"> <img src="https://img.shields.io/github/stars/HEXOROP/eSportMusicX?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-</p>
+    <br><b>Alisha MusicX is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
+
 
 <h3>Requirements 📝</h3>
 
@@ -21,11 +12,11 @@
 
 ### 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@HEXOROP/eSportMusic) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@AssadAli/AsadMusic) ``Pyrogram``
 
 ### 🎖 History
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/HEXOROP/eSportMusicX)
+[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/)
 
 ## Features 🔮
 
