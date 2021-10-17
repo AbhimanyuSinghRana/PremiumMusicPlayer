@@ -5,7 +5,7 @@ from config import BOT_NAME as bn
 from helpers.filters import other_filters2
 
 
-@Client.on_message(other_filters2)
+@Client.on_message(other_filters1)
 async def start(_, message: Message):
     
     await message.reply_text(
@@ -20,13 +20,13 @@ sᴜᴘᴇʀғᴀsᴛ ᴀɴᴅ ʜɪɢʜ ǫᴜᴀʟɪᴛʏ ᴠᴄ ᴍᴜsɪᴄ
             [
                 [
                     InlineKeyboardButton(
-                        "❰🅞︎𝘄🅝︎𝗲🅡︎❱", url="https://t.me/Sanki_Owner")
+                        "❰🅞︎𝘄🅝︎𝗲🅡︎❱", url="https://t.me/Venom_Hai_Hum")
                   ],[
                     InlineKeyboardButton(
-                        "❰ᴀʟɪꜱʜᴀ✘ᴘʟᴀʏᴇʀ 𝔖ᴜᴘᴘᴏƦᴛ❱", url="https://t.me/EsportClan"
+                        "❰ᴀʟɪꜱʜᴀ✘ᴘʟᴀʏᴇʀ 𝔖ᴜᴘᴘᴏƦᴛ❱", url="https://t.me/Shayri_Music_Lovers"
                     ),
                     InlineKeyboardButton(
-                        "❰ᴀʟɪꜱʜᴀ✘ᴘʟᴀʏᴇʀ ɢƦᴏᴜᴘ❱", url="https://t.me/Prayagraj_Op"
+                        "❰ᴀʟɪꜱʜᴀ✘ᴘʟᴀʏᴇʀ ɢƦᴏᴜᴘ❱", url="https://t.me/AlishaSupport"
                     )
                 ],
             ]
